@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/myImage">
+        <file>image/hisafe.png</file>
+        <file>image/background.png</file>
+        <file>image/hwm.gif</file>
+        <file>image/DIO.gif</file>
+        <file>image/fan.gif</file>
+        <file>image/bus.gif</file>
+        <file>image/backlight.gif</file>
+        <file>image/sys.gif</file>
+        <file>image/wdt.gif</file>
+        <file>image/in.png</file>
+        <file>image/out.png</file>
+        <file>image/timer(1).png</file>
+    </qresource>
+</RCC>
